@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 6\\TpModul6\\TpModul6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BD8DDD4-6F90-65CB-CC1E-A30ED98F8E98}|TpModul6\\TpModul6.csproj|c:\\users\\asus\\onedrive\\documents\\tugas_kuliah_salman\\coding semerster 4\\konstruksi perangkat lunak\\praktikum\\praktikum minggu 6\\tpmodul6\\tpmodul6\\tpmodul6\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BD8DDD4-6F90-65CB-CC1E-A30ED98F8E98}|TpModul6\\TpModul6.csproj|solutionrelative:tpmodul6\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BD8DDD4-6F90-65CB-CC1E-A30ED98F8E98}|TpModul6\\TpModul6.csproj|c:\\users\\asus\\onedrive\\documents\\tugas_kuliah_salman\\coding semerster 4\\konstruksi perangkat lunak\\praktikum\\praktikum minggu 6\\tpmodul6\\tpmodul6\\tpmodul6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BD8DDD4-6F90-65CB-CC1E-A30ED98F8E98}|TpModul6\\TpModul6.csproj|solutionrelative:tpmodul6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD8DDD4-6F90-65CB-CC1E-A30ED98F8E98}|TpModul6\\TpModul6.csproj|c:\\users\\asus\\onedrive\\documents\\tugas_kuliah_salman\\coding semerster 4\\konstruksi perangkat lunak\\praktikum\\praktikum minggu 6\\tpmodul6\\tpmodul6\\tpmodul6\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD8DDD4-6F90-65CB-CC1E-A30ED98F8E98}|TpModul6\\TpModul6.csproj|solutionrelative:tpmodul6\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SayaTubeVideo.cs",
               "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 6\\TpModul6\\TpModul6\\TpModul6\\SayaTubeVideo.cs",
               "RelativeDocumentMoniker": "TpModul6\\SayaTubeVideo.cs",
               "ToolTip": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 6\\TpModul6\\TpModul6\\TpModul6\\SayaTubeVideo.cs",
               "RelativeToolTip": "TpModul6\\SayaTubeVideo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T12:59:17.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T12:59:17.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 6\\TpModul6\\TpModul6\\TpModul6\\Program.cs",
               "RelativeDocumentMoniker": "TpModul6\\Program.cs",
               "ToolTip": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 6\\TpModul6\\TpModul6\\TpModul6\\Program.cs",
               "RelativeToolTip": "TpModul6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T06:18:36.379Z",
               "EditorCaption": ""
