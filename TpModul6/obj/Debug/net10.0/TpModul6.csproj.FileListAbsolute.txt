@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 6\TpModul6\TpModul6\TpModul6\bin\Debug\net10.0\TpModul6.exe
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 6\TpModul6\TpModul6\TpModul6\bin\Debug\net10.0\TpModul6.deps.json
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 6\TpModul6\TpModul6\TpModul6\bin\Debug\net10.0\TpModul6.runtimeconfig.json
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 6\TpModul6\TpModul6\TpModul6\bin\Debug\net10.0\TpModul6.dll
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 6\TpModul6\TpModul6\TpModul6\bin\Debug\net10.0\TpModul6.pdb
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 6\TpModul6\TpModul6\TpModul6\obj\Debug\net10.0\TpModul6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 6\TpModul6\TpModul6\TpModul6\obj\Debug\net10.0\TpModul6.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 6\TpModul6\TpModul6\TpModul6\obj\Debug\net10.0\TpModul6.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 6\TpModul6\TpModul6\TpModul6\obj\Debug\net10.0\TpModul6.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 6\TpModul6\TpModul6\TpModul6\obj\Debug\net10.0\TpModul6.sourcelink.json
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 6\TpModul6\TpModul6\TpModul6\obj\Debug\net10.0\TpModul6.dll
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 6\TpModul6\TpModul6\TpModul6\obj\Debug\net10.0\refint\TpModul6.dll
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 6\TpModul6\TpModul6\TpModul6\obj\Debug\net10.0\TpModul6.pdb
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 6\TpModul6\TpModul6\TpModul6\obj\Debug\net10.0\TpModul6.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 6\TpModul6\TpModul6\TpModul6\obj\Debug\net10.0\ref\TpModul6.dll
